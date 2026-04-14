@@ -1,0 +1,5 @@
+C:/Users/KawaiRina/Desktop/NozomiEngine/build/CMakeFiles/nozomi_rhi_vulkan.dir
+C:/Users/KawaiRina/Desktop/NozomiEngine/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/KawaiRina/Desktop/NozomiEngine/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/KawaiRina/Desktop/NozomiEngine/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/KawaiRina/Desktop/NozomiEngine/build/tests/CMakeFiles/RUN_TESTS.dir

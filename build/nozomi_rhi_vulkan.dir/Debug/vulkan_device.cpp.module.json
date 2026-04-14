@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "nozomi_rhi_vulkan.dir\\Debug\\vulkan_device.obj",
+            "outputs": [
+                "C:\\Users\\KawaiRina\\Desktop\\NozomiEngine\\build\\Debug\\nozomi_rhi_vulkan.pdb",
+                "nozomi_rhi_vulkan.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

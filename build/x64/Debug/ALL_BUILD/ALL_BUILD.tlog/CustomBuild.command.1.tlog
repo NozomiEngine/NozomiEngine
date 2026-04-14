@@ -1,0 +1,10 @@
+^C:\USERS\KAWAIRINA\DESKTOP\NOZOMIENGINE\CMAKELISTS.TXT
+setlocal
+"V:\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/KawaiRina/Desktop/NozomiEngine -BC:/Users/KawaiRina/Desktop/NozomiEngine/build --check-stamp-file C:/Users/KawaiRina/Desktop/NozomiEngine/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\KawaiRina\Desktop\NozomiEngine\build\CMakeFiles\f8990bb686bcdb0388b065bd55f0b427\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{072BCC68-D47B-36D1-86DC-718D40440A53}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
